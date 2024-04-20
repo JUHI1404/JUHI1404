@@ -1,5 +1,4 @@
 <div align="center">
-<img src=""E:\JUHI\Formal photo.jpg"" align="center" style="width: 100%" />
 </div>  
   
 
